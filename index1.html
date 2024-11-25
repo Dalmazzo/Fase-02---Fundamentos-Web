@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MiniMercado</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="index1.js">
+</head>
+<body>
+
+<!-- Cabeçalho -->
+<header>
+    <h1>MiniMercado - Seu Mercadinho de Confiança</h1>
+    <nav>
+        <a href="#objetivo">Objetivo e Metas</a>
+        <a href="#produtos">Produtos</a>
+        <a href="#servicos">Serviços</a>
+        <a href="#cadastro">Cadastro</a>
+    </nav>
+</header>
+
+<!-- Objetivo e Metas -->
+<section id="objetivo" class="container">
+    <h2>Objetivo e Metas</h2>
+    <p>Nosso objetivo é fornecer produtos de qualidade com atendimento excepcional e preços acessíveis, focando na satisfação dos nossos clientes. Metas incluem:</p>
+    <ul>
+        <li>Expandir a variedade de produtos em 20% até o próximo ano.</li>
+        <li>Reduzir o tempo médio de atendimento em 10%.</li>
+        <li>Implementar um sistema de fidelidade para clientes regulares.</li>
+    </ul>
+</section>
+
+<!-- Produtos -->
+<section id="produtos" class="container">
+    <h2>Produtos</h2>
+    <!-- Carrossel -->
+    <div id="carrossel-produtos" class="carrossel">
+        <button class="prev" onclick="moverCarrossel(-1)">&#10094;</button>
+        <div class="carrossel-items">
+            <!-- Cada produto já incluso anteriormente -->
+            <div class="produto">
+                <img src="imgProduto1.jpg" alt="Pacote de Arroz">
+                <h4>Pacote de Arroz</h4>
+                <p>Descrição detalhada do arroz.</p>
+                <p><strong>R$ 10,00</strong></p>
+            </div>
+            <div class="produto">
+                <img src="imgProduto2.jpg" alt="Macarrão Spaghetti">
+                <h4>Macarrão Spaghetti</h4>
+                <p>Descrição detalhada do macarrão.</p>
+                <p><strong>R$ 15,00</strong></p>
+            </div>
+            <div class="produto">
+                <img src="imgProduto3.jpg" alt="Coca Cola">
+                <h4>Coca Cola - 2L</h4>
+                <p>Descrição detalhada da Coca Cola.</p>
+                <p><strong>R$ 8,00</strong></p>
+            </div>
+            <div class="produto">
+                <img src="imgProduto4.jpg" alt="Cachaça 51">
+                <h4>51 - 1L</h4>
+                <p>Descrição detalhada da cachaça.</p>
+                <p><strong>R$ 12,00</strong></p>
+            </div>
+            <div class="produto">
+                <img src="imgProduto5.jpg" alt="Sabão em Pó OMO">
+                <h4>Sabão em Pó</h4>
+                <p>Descrição detalhada do sabão em pó.</p>
+                <p><strong>R$ 6,00</strong></p>
+            </div>
+            <div class="produto">
+                <img src="imgProduto6.jpg" alt="Desinfetante Ypê">
+                <h4>Desinfetante Ypê</h4>
+                <p>Descrição detalhada do desinfetante.</p>
+                <p><strong>R$ 9,00</strong></p>
+            </div>
+        </div>
+        <button class="next" onclick="moverCarrossel(1)">&#10095;</button>
+    </div>
+</section>
+
+<!-- Serviços -->
+<section id="servicos" class="container">
+    <h2>Serviços</h2>
+    <div class="servico">
+        <h4>Entrega em domicílio</h4>
+        <p>Entregamos suas compras na porta da sua casa!</p>
+        <p><strong>Valor: R$ 5,00</strong></p>
+    </div>
+    <div class="servico">
+        <h4>Cartão Fidelidade</h4>
+        <p>Ganhe pontos e troque por descontos em produtos.</p>
+        <p><strong>Valor: Grátis</strong></p>
+    </div>
+</section>
+
+<!-- Cadastro -->
+<section id="cadastro" class="container">
+    <h2>Cadastro</h2>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+        
+        <label for="cpf">CPF:</label>
+        <input type="text" id="cpf" name="cpf" placeholder="000.000.000-00" required>
+        
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" placeholder="exemplo@email.com" required>
+        
+        <label for="telefone">Telefone:</label>
+        <input type="tel" id="telefone" name="telefone" placeholder="(00) 00000-0000" required>
+        
+        <label for="servico">Escolha o serviço:</label>
+        <select id="servico" name="servico">
+            <option value="retirada">Retirada no local</option>
+            <option value="tele-entrega">Tele-entrega</option>
+        </select>
+
+        <label for="data">Data do agendamento:</label>
+        <input type="date" id="data" name="data" required>
+        
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+
+<!-- Rodapé -->
+<footer>
+    <p>&copy; 2024 MiniMercado. Todos os direitos reservados.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

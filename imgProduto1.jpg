@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL8NQ8D');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript" src="https://camilalimentos.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/o2joag/b/24/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=0a2b5e77"></script>
+
+<script type="text/javascript">
+    window.ATL_JQ_PAGE_PROPS = {
+        "triggerFunction": function(showCollectorDialog) {
+            //Requires that jQuery is available! 
+            jQuery("#myCustomTrigger").click(function(e) {
+                e.preventDefault();
+                showCollectorDialog();
+            });
+        }
+    };
+</script>
+
+
+<link rel="shortcut icon" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png" type="image/x-icon" />
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo-to-fav-300x300.png">
+<title>Arroz Parboilizado &#8211; Camil</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.27.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<link rel='stylesheet' id='adopt-stylesheet-css' href='https://www.camil.com.br/wp-content/plugins/adopt/includes/style.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='dce-dynamic-visibility-style-css' href='https://www.camil.com.br/wp-content/plugins/dynamic-visibility-for-elementor//assets/css/dynamic-visibility.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.camil.com.br/wp-includes/css/dist/block-library/style.min.css?v=202005061320' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://www.camil.com.br/wp-content/plugins/jet-engine/assets/css/frontend.css?v=202005061320' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.camil.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-image-css' href='https://www.camil.com.br/wp-content/plugins/menu-image/includes/css/menu-image.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.camil.com.br/wp-includes/css/dashicons.min.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-style-css' href='https://www.camil.com.br/wp-content/plugins/post-slider-and-carousel/assets/css/owl.carousel.min.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='psac-public-style-css' href='https://www.camil.com.br/wp-content/plugins/post-slider-and-carousel/assets/css/psac-public.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/fonts.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-default-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/wordpress.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='components-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/components.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/libs/slick/slick.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/libs/slick/slick-theme.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/ajax.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/style.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='style-resp-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/style-resp.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='fix-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/default/fix.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-chosen-css' href='https://www.camil.com.br/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-search-css' href='https://www.camil.com.br/wp-content/plugins/jet-search/assets/css/jet-search.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='ecs-styles-css' href='https://www.camil.com.br/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?v=202005061320' type='text/css' media='all' />
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var _ckyConfig = {"_ipData":[],"_assetsURL":"https:\/\/www.camil.com.br\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/","_publicURL":"https:\/\/www.camil.com.br","_expiry":"365","_categories":[{"name":"Necess\u00e1rio","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Funcional","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Anal\u00edticos","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Desempenho","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"An\u00fancio","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"box","position":"bottom-left","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":true,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0056A7"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":false,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.1.7","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"reject-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"settings-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"readmore-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"revisit-consent","styles":{"background-color":"#0056A7"}}],"_shortCodes":[{"key":"cky_readmore","content":"<a href=\"#\" class=\"cky-policy\" aria-label=\"Pol\u00edtica de Cookies\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\">Pol\u00edtica de Cookies<\/a>","tag":"readmore-button","status":false,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Mostrar mais\">Mostrar mais<\/button>","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Mostrar menos\">Mostrar menos<\/button>","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Habilitar","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"Desabilitar","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"<div class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"><p class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\">Por favor, aceite o consentimento do cookie<\/p><\/div>","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Habilitar","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"Desabilitar","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"N\u00e3o venda ou compartilhe minhas informa\u00e7\u00f5es pessoais","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Fechar","tag":"","status":true,"attributes":[]}],"_rtl":"","_providersToBlock":[]};
+var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.cky-consent-container{width: 100%;}}@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?v=202005061320" id="cookie-law-info-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/libs/jquery-3.4.1.min.js?v=202005061320" id="jquery-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/imagesloaded.min.js?v=202005061320" id="imagesLoaded-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/disable-button/disable-button-plugin-script.js?v=202005061320" id="disable-button-plugin-script-js"></script>
+<script type="text/javascript" id="ecs_ajax_load-js-extra">
+/* <![CDATA[ */
+var ecs_ajax_params = {"ajaxurl":"https:\/\/www.camil.com.br\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"produtos\":\"arroz\\\/todo-dia\\\/arroz-parboilizado\",\"post_type\":\"produtos\",\"name\":\"arroz-parboilizado\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"arroz-parboilizado\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?v=202005061320" id="ecs_ajax_load-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?v=202005061320" id="ecs-script-js"></script>
+<link rel="canonical" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-parboilizado/" />
+<link rel='shortlink' href='https://www.camil.com.br/?p=183' />
+  
+  <script>
+    let wind = window.top;
+
+    let adoptMetaTag = wind.document.createElement("meta");
+    adoptMetaTag.name = "adopt-website-id";
+
+    adoptMetaTag.content = '';
+    wind.document.getElementsByTagName("head")[0].appendChild(adoptMetaTag);
+
+    let adoptTag = wind.document.createElement("script");
+    adoptTag.type = "text/javascript";
+    adoptTag.charset = "utf-8";
+    adoptTag.async = true;
+    adoptTag.src = `//tag.goadopt.io/injector.js?website_code=`;
+    wind.document.getElementsByTagName("head")[0].appendChild(adoptTag);
+  </script>
+<style id="cky-style-inline">[data-cky-tag]{visibility:hidden;}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script>const AJAX_URL = "https://www.camil.com.br/wp-admin/admin-ajax.php";const HTML_LOADING = '<span data-js-loading class="js-enviando loading loading-overlay-white"></span>';const URL_IMAGENS = 'https://www.camil.com.br/wp-content/themes/camilproduto/imagens/';</script><meta name="generator" content="Elementor 3.24.2; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+					<style type="text/css" id="wp-custom-css">
+			.cookies-msg-box {
+display: none
+}		</style>
+		<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style></head>
+<body  class="produtos-template-default single single-produtos postid-183 elementor-default elementor-kit-54544">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NL8NQ8D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+
+   
+
+<div class="container-full prod-arroz linha-todo-dia arroz-parboilizado">
+	
+<aside class="sidebar">
+	<div class="sidebar-conteudo">
+		<div class="aside-logo">
+				            <div class="site-title">
+	                <a href="https://www.camil.com.br" title="Camil" rel="home">
+	                    <img class="logo" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo.png" alt="Camil">
+	                </a>
+	            </div>
+	        	    </div>
+
+		<div class="side-menu" data-menu-produtos>
+			<nav id="category" class="category nav-produtos">
+				<ul class="menu produto-tipos">
+				    <li class="tipo-item arroz current_page_ancestor active"><span class="lb">Arroz</span>
+<ul class='menu tipo-linhas'>
+	<span class="lb">Arroz</span><li class="linha-item todo-dia current_page_ancestor active current_page_parent"><a class="linha-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/">Todo Dia</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item arroz-tipo-1"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-tipo-1/">Arroz Tipo 1</a></li>
+		<li class="produto-item arroz-tipo-2"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-tipo-2/">Arroz Tipo 2</a></li>
+		<li class="produto-item arroz-parboilizado current_page_item"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-parboilizado/">Arroz Parboilizado</a></li>
+		<li class="produto-item arroz-parboilizado-em-saquinhos"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-parboilizado-em-saquinhos/">Arroz Parboilizado em saquinhos</a></li>
+		<li class="produto-item arroz-reserva-especial"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-reserva-especial/">Arroz Reserva Especial</a></li>
+		<li class="produto-item arroz-culinaria-italiana"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-culinaria-italiana/">Arroz Culinária Italiana</a></li>
+	</ul>
+</li>
+	<li class="linha-item gourmet"><a class="linha-link" href="https://www.camil.com.br/produtos/arroz/gourmet/">Gourmet</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item arroz-preto"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-preto/">Arroz Preto</a></li>
+		<li class="produto-item mini-arroz"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/mini-arroz/">Mini Arroz</a></li>
+		<li class="produto-item arroz-vermelho"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-vermelho/">Arroz Vermelho</a></li>
+		<li class="produto-item arroz-selvagem"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-selvagem/">Arroz Selvagem</a></li>
+		<li class="produto-item arroz-culinaria-italiana"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-culinaria-italiana/">Arroz Culinária Italiana</a></li>
+		<li class="produto-item arroz-basmati"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-basmati/">Arroz Basmati</a></li>
+	</ul>
+</li>
+	<li class="linha-item mais-saude"><a class="linha-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/">Mais Saúde</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item arroz-branco-ntegral"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/arroz-branco-ntegral/">Arroz Branco Integral</a></li>
+		<li class="produto-item arroza-careto-integral"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/arroza-careto-integral/">Arroz Cateto Integral</a></li>
+		<li class="produto-item arroz-7-cereais-integrais"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/arroz-7-cereais-integrais/">Arroz 7 Grãos Integrais</a></li>
+		<li class="produto-item 239-2"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/239-2/">Arroz Integral Parboilizado</a></li>
+		<li class="produto-item arroz-organico"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/mais-saude/arroz-organico/">Arroz Orgânico</a></li>
+	</ul>
+</li>
+	<li class="linha-item minuto-caseiro"><a class="linha-link" href="https://www.camil.com.br/produtos/arroz/minuto-caseiro/">Minuto Caseiro</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item arroz-7-graos-minuto-caseiro-camil"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/minuto-caseiro/arroz-7-graos-minuto-caseiro-camil/">Arroz 7 Grãos Minuto Caseiro CAMIL</a></li>
+		<li class="produto-item arroz-integral-minuto-caseiro-camil"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/minuto-caseiro/arroz-integral-minuto-caseiro-camil/">Arroz Integral Minuto Caseiro CAMIL</a></li>
+		<li class="produto-item arroz-branco-minuto-caseiro-camil"><a class="prod-link" href="https://www.camil.com.br/produtos/arroz/minuto-caseiro/arroz-branco-minuto-caseiro-camil/">Arroz Branco Minuto Caseiro CAMIL</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="tipo-item feijao"><span class="lb">Feijão</span>
+<ul class='menu tipo-linhas'>
+	<span class="lb">Feijão</span><li class="linha-item pronto"><a class="linha-link" href="https://www.camil.com.br/produtos/feijao/pronto/">Pronto</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item feijao-preto-pronto-sem-tempero"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-preto-pronto-sem-tempero/">Feijão Preto Pronto Sem Tempero</a></li>
+		<li class="produto-item feijao-fradinho-pronto"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-fradinho-pronto/">Feijão Fradinho Pronto</a></li>
+		<li class="produto-item feijao-carioca-pronto"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-carioca-pronto/">Feijão Carioca Pronto</a></li>
+		<li class="produto-item feijao-branco-pronto"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-branco-pronto/">Feijão Branco Pronto</a></li>
+		<li class="produto-item feijao-carioca-pronto-sem-tempero"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-carioca-pronto-sem-tempero/">Feijão Carioca Pronto Sem Tempero</a></li>
+		<li class="produto-item feijao-preto-pronto"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-preto-pronto/">Feijão Preto Pronto</a></li>
+	</ul>
+</li>
+	<li class="linha-item todo-dia"><a class="linha-link" href="https://www.camil.com.br/produtos/feijao/todo-dia/">Todo Dia</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item feijao-carioca"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-carioca/">Feijão Carioca</a></li>
+		<li class="produto-item feijao-preto"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-preto/">Feijão Preto</a></li>
+		<li class="produto-item feijao-fradinho"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-fradinho/">Feijão Fradinho</a></li>
+	</ul>
+</li>
+	<li class="linha-item cores"><a class="linha-link" href="https://www.camil.com.br/produtos/feijao/cores/">Cores</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item feijao-jalo"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-jalo/">Feijão Jalo</a></li>
+		<li class="produto-item feijao-rajado"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-rajado/">Feijão Rajado</a></li>
+		<li class="produto-item feijao-bolinha"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-bolinha/">Feijão Bolinha</a></li>
+		<li class="produto-item feijao-branco"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-branco/">Feijão Branco</a></li>
+		<li class="produto-item feijao-rosinha"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-rosinha/">Feijão Rosinha</a></li>
+		<li class="produto-item feijao-fradinho"><a class="prod-link" href="https://www.camil.com.br/produtos/feijao/cores/feijao-fradinho/">Feijão Fradinho</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="tipo-item biscoito"><span class="lb">Biscoito</span>
+<ul class='menu tipo-linhas'>
+	<span class="lb">Biscoito</span><li class="linha-item mais-saude"><a class="linha-link" href="https://www.camil.com.br/produtos/biscoito/mais-saude/">Mais Saúde</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item biscoito-de-arroz-integral-sabor-pimenta"><a class="prod-link" href="https://www.camil.com.br/produtos/biscoito/mais-saude/biscoito-de-arroz-integral-sabor-pimenta/">Biscoito de arroz integral sabor Pimenta</a></li>
+		<li class="produto-item biscoito-de-arroz-integral-sabor-chia-e-linhaca"><a class="prod-link" href="https://www.camil.com.br/produtos/biscoito/mais-saude/biscoito-de-arroz-integral-sabor-chia-e-linhaca/">Biscoito de arroz integral sabor Chia e Linhaça</a></li>
+		<li class="produto-item biscoito-de-arroz-integral"><a class="prod-link" href="https://www.camil.com.br/produtos/biscoito/mais-saude/biscoito-de-arroz-integral/">Biscoito de arroz integral</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="tipo-item graos"><span class="lb">Grãos</span>
+<ul class='menu tipo-linhas'>
+	<span class="lb">Grãos</span><li class="linha-item pronto"><a class="linha-link" href="https://www.camil.com.br/produtos/graos/pronto/">Pronto</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item soja-pronta"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/pronto/soja-pronta/">Soja Pronta</a></li>
+		<li class="produto-item grao-de-bico-pronto"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/pronto/grao-de-bico-pronto/">Grão-de-bico Pronto</a></li>
+	</ul>
+</li>
+	<li class="linha-item especiais"><a class="linha-link" href="https://www.camil.com.br/produtos/graos/especiais/">Especiais</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item ervilha"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/ervilha/">Ervilha</a></li>
+		<li class="produto-item grao-de-bico"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/grao-de-bico/">Grão-de-bico</a></li>
+		<li class="produto-item lentilha"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/lentilha/">Lentilha</a></li>
+		<li class="produto-item soja"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/soja/">Soja</a></li>
+		<li class="produto-item canjica-de-milho-branco"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/canjica-de-milho-branco/">Canjica de Milho Branco</a></li>
+		<li class="produto-item milho-para-pipoca-premium"><a class="prod-link" href="https://www.camil.com.br/produtos/graos/especiais/milho-para-pipoca-premium/">Milho para Pipoca Premium</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="tipo-item proteina-de-soja"><span class="lb">Proteína de Soja</span>
+<ul class='menu tipo-linhas'>
+	<span class="lb">Proteína de Soja</span><li class="linha-item proteina-texturizada-de-soja"><a class="linha-link" href="https://www.camil.com.br/produtos/proteina-de-soja/proteina-texturizada-de-soja/">Proteína Texturizada de Soja</a>
+	<ul class='menu linha-produtos'>
+		<li class="produto-item proteina-texturizada-de-soja-clara"><a class="prod-link" href="https://www.camil.com.br/produtos/proteina-de-soja/proteina-texturizada-de-soja/proteina-texturizada-de-soja-clara/">Proteína Texturizada Soja Clara (Frango)</a></li>
+		<li class="produto-item proteina-texturizada-de-soja-para-carnes"><a class="prod-link" href="https://www.camil.com.br/produtos/proteina-de-soja/proteina-texturizada-de-soja/proteina-texturizada-de-soja-para-carnes/">Proteína Texturizada Soja Escura (Carne)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+				</ul>
+			</nav>
+		</div>
+
+		<!--<div class="box-sidebar">
+			<div id="search-2" class="widget widget_search"><form role="search" method="get" action="/receitas/" class="flex flex-1 form-search">
+	<input type="search" placeholder="O que você deseja cozinhar?" value="" name="q" class="padding-7 w-100p ipt-search" />
+	<button type="submit" class="btn btn-primary margin-l-15 padding-h-20">
+		<span class="lg-only">Buscar</span>
+		<span class="md-only">OK</span>
+	</button>
+</form>
+</div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="titulo-sidebar">Posts recentes</h3>
+		<ul>
+											<li>
+					<a href="https://www.camil.com.br/2020/04/29/hello-world/">Hello world!</a>
+									</li>
+					</ul>
+
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="titulo-sidebar">Comentários</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="https://wordpress.org/" class="url" rel="ugc external nofollow">A WordPress Commenter</a></span> em <a href="https://www.camil.com.br/2020/04/29/hello-world/#comment-1">Hello world!</a></li></ul></div>		</div>-->
+	</div>
+</aside>
+
+	<main class="main-wrapper">
+
+				<section class="main-content prod-single">
+			
+<div id="cover"><span class="sr-only">Cover</span></div>
+
+<header class="topo" data-menu-fixo>
+	<div class="topo-conteudo" >
+		<div class="base">
+			<div class="base-content md-only">
+				<div class="topo-inner">
+
+					<div class="btn-menu-responsivo-box" data-toggle-menu-mobile>
+						<div class="btn-menu-responsivo">
+							<span>.</span>
+							<span>.</span>
+							<span>.</span>
+						</div>
+					</div>
+
+					<div class="topo-logo">
+
+							                        <div class="site-title">
+	                            <a href="https://www.camil.com.br" title="Camil" rel="home">
+	                                <img class="logo" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo.png" alt="Camil">
+	                            </a>
+	                        </div>
+	                    	                </div>
+					
+				</div>
+
+				                <div class="mobile-search">	                	
+			        <button class="btn-fnc ico-busca"><span class="sr-only">ícone busca</span></button>		
+			        <div class="w-form"><form role="search" method="get" action="/receitas/" class="flex flex-1 form-search">
+	<input type="search" placeholder="O que você deseja cozinhar?" value="" name="q" class="padding-7 w-100p ipt-search" />
+	<button type="submit" class="btn btn-primary margin-l-15 padding-h-20">
+		<span class="lg-only">Buscar</span>
+		<span class="md-only">OK</span>
+	</button>
+</form>
+</div>
+                </div> 
+
+			</div>
+
+			<div class="base-content lg-only">
+				<div class="topo-inner">
+
+					<div class="col-left">	
+					  	<div class="wrap">
+					  		<div class="topo-info" data-topo-conteudo>
+								<nav class="topo-menu" data-menu-principal>
+									<ul id="menu-principal" class="menu-principal"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="/">Home</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="/receitas">Receitas</a></li>
+<li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707"><a href="https://www.camil.com.br/campanhas/">Campanhas</a></li>
+<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="https://www.camil.com.br/historia/">História</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="http://camilalimentos.com.br">Institucional</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://www.camil.com.br/fale-conosco/">Fale Conosco</a></li>
+</ul>								</nav>
+							</div>
+										                <div class="search-wrap">
+			                    <form role="search" method="get" action="/receitas/" class="flex flex-1 form-search">
+	<input type="search" placeholder="O que você deseja cozinhar?" value="" name="q" class="padding-7 w-100p ipt-search" />
+	<button type="submit" class="btn btn-primary margin-l-15 padding-h-20">
+		<span class="lg-only">Buscar</span>
+		<span class="md-only">OK</span>
+	</button>
+</form>
+			                </div> 
+						</div>
+
+					</div>
+
+				  	<div class="social-networks col-right">
+						    <a target="_blank" href="https://www.instagram.com/camilbrasil/" title="Instagran Camil" class="sn-btn btn-instagram">Instagram</a>
+	<a target="_blank" href="https://www.facebook.com/camilnamesa/" title="Facebook Camil" class="sn-btn btn-facebook">Facebook</a>
+      	
+	<a target="_blank" href="https://www.youtube.com/user/camilvideos" title="YouTube Camil" class="sn-btn btn-youtube">YouTube</a>
+
+					</div>
+	
+				</div>
+				 
+			</div>
+		</div>
+	</div>
+</header>
+			
+<div class="banner">
+
+			
+			<div class="banner-box">
+					
+				<div class="banner-inner img-gradient" style="background-image: url('https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-paraboilizado-1917x760.jpg');">
+
+					<div class="base">
+						<div class="base-content">
+							<h1 class="b-title">Arroz Parboilizado</h1>
+							<div class="b-txt"><a href="https://www.camil.com.br/produtos/arroz/todo-dia/"> Linha Todo Dia</a></div>
+						</div>
+					</div>
+
+				</div>
+ 
+			</div>
+
+</div>
+
+			<div class="content">
+									<section class="intro-single">
+						<div class="row">
+							<div class="column">
+																	<figure class="p-thumb"><img width="768" height="768" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-768x768.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/parbo-novo.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+															</div>
+							<div class="column double">
+								<div class="p-intro">
+									<p>Você sabe qual a é diferença entre o arroz parboilizado e os outros tipos de arroz?</p>
+<p>É muito simples de entender. O arroz parboilizado passa por um processo que cozinha o grão dentro da sua própria casca, utilizando apenas água e calor, sem adição de produtos químicos. Assim, o grão absorve os nutrientes da casca do arroz, deixando-o mais nutritivo. Isso é tudo o que buscamos quando o assunto é cuidar de quem amamos, não é mesmo?</p>
+<p>Esse processo também deixa o grão íntegro e mais soltinho no cozimento, proporcionando um ótimo resultado na sua receita.</p>
+<p>Além de muito gostoso, o Arroz Parboilizado Camil possui um alto teor de carboidratos, responsáveis por fornecer energia. Graças ao seu processamento, ele mantém as vitaminas do complexo B, as fibras, que auxiliam no funcionamento do corpo e alguns minerais.</p>
+<ul>
+<li>Leve essa delícia para a mesa.</li>
+<li>Fonte de energia;</li>
+<li>Possui vitaminas do complexo B;</li>
+<li>Rico em fibras;</li>
+<li>Não precisa lavar nem escolher.</li>
+</ul>
+								</div>
+								
+								<div class="nutricional">
+									<button class="btn btn-action">Tabela nutricional <span class="ico">+</span></button>
+									<div class="wrap-table">										
+										<table cellspacing="0" cellpadding="0" border="0">
+											<thead>
+												<tr>
+													<th>Quantidade por porção (50g)</th>
+													<th>***</th>
+													<th>%VD*</th>
+												</tr>
+											</thead>
+											<tbody>
+												
+																								<tr>
+													<td>Valor energético</td>
+													<td>169 kcal</td>
+													<td>8%</td>
+												</tr>
+																								<tr>
+													<td>Carboidratos</td>
+													<td>39 g</td>
+													<td>13%</td>
+												</tr>
+																								<tr>
+													<td>Proteínas</td>
+													<td>3.3 g</td>
+													<td>4%</td>
+												</tr>
+																								<tr>
+													<td>Gorduras totais</td>
+													<td>0 g</td>
+													<td>0%</td>
+												</tr>
+																								<tr>
+													<td>Gorduras saturadas</td>
+													<td>0 g</td>
+													<td>0%</td>
+												</tr>
+																								<tr>
+													<td>Gorduras trans</td>
+													<td>0 g</td>
+													<td>**</td>
+												</tr>
+																								<tr>
+													<td>Fibra alimentar</td>
+													<td>1.7 g</td>
+													<td>7%</td>
+												</tr>
+																								<tr>
+													<td>Sódio</td>
+													<td>0 mg</td>
+													<td>0%</td>
+												</tr>
+																							</tbody>
+										</table>
+
+																					<p class="note-box">
+												* % Valores diários de referência com base em uma dieta de 2000kcal ou 8400kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. ** VD não estabelecido. NÃO CONTÉM GLÚTEN.											</p>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+				
+
+									<section class="bl-preparo">
+						<div class="section-title">Fácil fazer</div>
+							<div class="wrap-text">
+								<p><strong>RECEITA BÁSICA &#8211; Fogão</strong></p>
+<ol>
+<li>Em uma panela, aqueça 1 colher (sopa) de óleo e refogue meia cebola picada ou os temperos de sua preferência.</li>
+<li>Adicione 1 xícara (chá) de Arroz Parboilizado CAMIL e refogue por alguns minutos.</li>
+<li>Acrescente 2 e meia xícaras (chá) de água quente e 1 colher (chá) de sal.</li>
+<li>Tampe parcialmente a panela e cozinhe em fogo médio por 15 a 20 minutos ou até o líquido secar e os grãos ficarem cozidos.</li>
+<li>Desligue o fogo e reserve a panela tampada por 5 minutos. Sirva em seguida.</li>
+</ol>
+<p>Rende: 4 porções</p>
+<p><strong>RECEITA BÁSICA &#8211; Micro-ondas</strong></p>
+<ol>
+<li>Em um recipiente próprio para micro-ondas com bordas altas, coloque 1 xícara (chá) de Arroz Parboilizado CAMIL, 1 colher (sopa) de óleo, 1 colher (chá) de sal e 3 xícaras (chá) de água. Misture bem.</li>
+<li>Leve o recipiente parcialmente tampado ao micro-ondas na potência alta por 20 minutos*.</li>
+<li>Reserve por 5 minutos. Sirva em seguida.</li>
+</ol>
+<p>Rende: 4 porções</p>
+<p><em>* Este tempo pode variar conforme o modelo do equipamento.</em></p>
+							</div>
+					</section>
+				
+
+								<section class="bl-combinacoes prods-itens">
+					<div class="section-title">Experimente combinar</div>
+					<div class="row carousel mobile-carousel">
+											
+							<div class="prod-col">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-carioca/">
+									<figure  class="prod-thumb">
+										
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-60x60.png 60w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-24x24.png 24w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-36x36.png 36w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview-48x48.png 48w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/mkp-feijao-carioca-1kg-removebg-preview.png 499w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Carioca</figcaption>
+									</figure>
+								</a>
+							</div>
+
+											
+							<div class="prod-col">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-preto/">
+									<figure  class="prod-thumb">
+										
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-1024x1024.png 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-768x768.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-760x760.png 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-820x820.png 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3.png 1200w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Preto</figcaption>
+									</figure>
+								</a>
+							</div>
+
+											
+							<div class="prod-col">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/graos/especiais/lentilha/">
+									<figure  class="prod-thumb">
+										
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque.png 500w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Lentilha</figcaption>
+									</figure>
+								</a>
+							</div>
+
+										</section>
+				
+
+								
+				<section class="bl-receitas">
+					<div class="section-title">Receitas e dicas deliciosas</div>
+					<div class="row">
+						<div class="column">
+							<div class="box">
+								<article class="post-item">
+									<a href="/receitas/caldinho_de_feijao_preto_pratico" class="p-link" title="Caldinho de feijão preto prático">
+	                                    <figure class="img-gradient">
+	                                        <img class="wp-image-thumb img-responsive p-thumb" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/caldinho-feijao-820x820.jpg" alt="Caldinho de feijão preto prático">
+	                                    </figure>
+	                                    <div class="p-text">
+	                                        <h4 class="p-title dash-t" title="Caldinho de feijão preto prático">Caldinho de feijão preto prático</h4>
+	                                        <div class="hidden-content">
+	                                           <div class="btn btn-default">Saiba mais</div>
+	                                        </div>
+	                                        <div class="p-time">     
+	                                        	<span class="txt">10 min</span>
+	                                        </div>  
+
+	                                    </div>
+	                                </a>
+	                            </article>
+                            </div>
+                        </div>
+						<div class="column">
+							<div class="box">
+								<div class="tip bg-oldrose">
+									<div class="tip-lb dash-t">Dicas</div>
+									<h3 class="tip-tit">Cozinhe o feijão mais rápido</h3>
+									<p class="tip-txt">Quando for cozinhar o feijão, deixe os grãos de molho de um dia para outro. Você economiza no tempo de cozimento e na conta de gás. Atenção: a quantidade de água da receita irá mudar.</p>
+								</div>
+							</div>
+						</div>
+						<div class="column one-half lg-only">
+							<div class="box photo-only">
+								<figrue class="photo-fig">
+									<img src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/proteina-soja-794x397.png" alt="Produto Camil">
+								</figrue>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column tb-only">
+							<div class="box photo-only">
+								<figrue class="photo-fig">
+									<img src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-negro-771x436.jpg" alt="Produto Camil">
+								</figrue>
+							</div>
+						</div>
+						<div class="column double">
+							<div class="box">
+								<article class="post-item">
+									<a href="/receitas/virado_a_paulista" class="p-link" title="Virado à paulista">
+	                                    <figure class="img-gradient">
+	                                        <img class="wp-image-thumb img-responsive p-thumb" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/virado-a-paulista2-820x546.jpg" alt="Virado à paulista">
+	                                    </figure>
+	                                    <div class="p-text">
+	                                        <h4 class="p-title dash-t">Virado à paulista</h4>
+	                                        <div class="hidden-content">
+	                                           <div class="btn btn-default">Saiba mais</div>
+	                                        </div>
+	                                        <div class="p-time">     
+	                                        	<span class="txt">1h</span>
+	                                        </div>  
+
+	                                    </div>
+	                                </a>
+	                            </article>
+							</div>
+						</div>
+						<div class="column">
+							<div class="box tip bg-salmon">
+								<div class="tip-lb dash-t">Dicas</div>
+								<h3 class="tip-tit">Alimentação melhor e mais ampla?</h3>
+								<p class="tip-txt">Variar na cozinha é fundamental para trazer diferentes vitaminas e nutrientes à alimentação de toda a família. A Camil oferece uma linha extensa de grãos como lentilha, grão de bico, canjica e ervilha.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				
+<section class="bl-prods-linha prods-itens">
+						<div class="section-title">Produtos da mesma linha</div>
+						<div class="row carousel mobile-carousel">
+
+															<div class="prod-col">
+									<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-tipo-1/">
+										<figure  class="prod-thumb">
+											
+											<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t1-1kg.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="prod-title">Arroz Tipo 1</figcaption>
+										</figure>
+									</a>
+								</div>
+															<div class="prod-col">
+									<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-tipo-2/">
+										<figure  class="prod-thumb">
+											
+											<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-t2-1kg.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="prod-title">Arroz Tipo 2</figcaption>
+										</figure>
+									</a>
+								</div>
+															<div class="prod-col">
+									<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-parboilizado-em-saquinhos/">
+										<figure  class="prod-thumb">
+											
+											<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-1024x1024.png 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-768x768.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-760x760.png 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-820x820.png 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-parboil-sq.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="prod-title">Arroz Parboilizado em saquinhos</figcaption>
+										</figure>
+									</a>
+								</div>
+															<div class="prod-col">
+									<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-reserva-especial/">
+										<figure  class="prod-thumb">
+											
+											<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="prod-title">Arroz Reserva Especial</figcaption>
+										</figure>
+									</a>
+								</div>
+															<div class="prod-col">
+									<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/todo-dia/arroz-culinaria-italiana/">
+										<figure  class="prod-thumb">
+											
+											<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-1024x1024.png 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-768x768.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-760x760.png 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-820x820.png 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/culinaria-italiana-1kg-1.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="prod-title">Arroz Culinária Italiana</figcaption>
+										</figure>
+									</a>
+								</div>
+							
+						</div>
+					</section>
+
+				<section class="bl-outros-prods prods-itens">
+						<div class="section-title">Conheça também</div>
+						<div class="carousel prods-carousel">
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-branco-pronto/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-branco.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Branco Pronto</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/todo-dia/feijao-fradinho/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-1024x1024.png 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-768x768.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-760x760.png 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-820x820.png 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582827759-mkp-fradinho-camil-1kg-2.png 1200w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Fradinho</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/mais-saude/arroz-organico/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-1024x1024.png 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-768x768.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-760x760.png 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-820x820.png 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/images-upload-uploaded-1344-arroz-organico.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Arroz Orgânico</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-carioca-pronto/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-pronto-carioca.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Carioca Pronto</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/graos/especiais/milho-para-pipoca-premium/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/milho-pipoca-premium-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/milho-pipoca-premium-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/milho-pipoca-premium-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/milho-pipoca-premium-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/milho-pipoca-premium.png 500w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Milho para Pipoca Premium</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/cores/feijao-bolinha/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-bolinha-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-bolinha-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-bolinha-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-bolinha-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-bolinha.png 500w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Bolinha</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/cores/feijao-branco/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-branco-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-branco-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-branco-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-branco-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/feijao-500g-branco.png 500w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Branco</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/graos/especiais/lentilha/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-300x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-300x300.png 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-150x150.png 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque-397x397.png 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/07/mkp-500g-lentilha-graos-destque.png 500w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Lentilha</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/gourmet/arroz-vermelho/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-vermelho.jpg 1292w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Arroz Vermelho</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/feijao/pronto/feijao-fradinho-pronto/">
+									<figure  class="prod-thumb">											
+										<img width="300" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-300x300.jpg" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-300x300.jpg 300w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-1024x1024.jpg 1024w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-150x150.jpg 150w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-768x768.jpg 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-760x760.jpg 760w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-820x820.jpg 820w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto-397x397.jpg 397w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/pronto-fradinho-pronto.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />										<figcaption class="prod-title">Feijão Fradinho Pronto</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+							<div class="prod-box Array">
+								<a class="prod-item" href="https://www.camil.com.br/produtos/arroz/minuto-caseiro/arroz-integral-minuto-caseiro-camil/">
+									<figure  class="prod-thumb">											
+										<img width="281" height="300" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-281x300.png" class="prod-img wp-post-image" alt="" decoding="async" srcset="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-281x300.png 281w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-958x1024.png 958w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-768x821.png 768w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-1437x1536.png 1437w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-711x760.png 711w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g-371x397.png 371w, https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/minuto-caseiro-arroz-integral-240g.png 1584w" sizes="(max-width: 281px) 100vw, 281px" />										<figcaption class="prod-title">Arroz Integral Minuto Caseiro CAMIL</figcaption>
+									</figure>
+								</a>
+							</div>
+
+						
+						</div>
+					</section>			     
+
+
+			</div>
+		</section>
+	</main>
+
+</div>
+
+
+<footer class="footer secao">
+	<div class="base">
+		<div class="base-content">
+			<div class="footer-inner">
+				<nav aria-label="navigation" role="navigation" class="navbar t-center">
+                    <ul id="menu-rodape" class="nav-menu"><li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-392"><a rel="privacy-policy" href="https://www.camil.com.br/politica-de-privacidade/">Política de Privacidade</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a target="_blank" rel="noopener" href="https://camilalimentos.com.br">Institucional</a></li>
+</ul>
+                </nav>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="info"></div>
+<div data-message-clone data-message class="message none"></div>
+
+<aside class="menu-mobile-container" data-menu-mobile-container>
+
+	<div class="menu-mobile" data-menu-mobile>		
+		<div class="site-title">
+	        <a href="https://www.camil.com.br" title="Camil" rel="home">
+	            <img class="logo" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/logo.png" alt="Camil">
+	        </a>
+	    </div>
+	</div>
+	<div class="overlay" data-close-menu-mobile></div>
+</aside>
+
+<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Preferências de consentimento" style="background-color:#0056a7"> <button class="cky-btn-revisit" aria-label="Preferências de consentimento"> <img src="https://www.camil.com.br/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4;color:#212121">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">Valorizamos sua privacidade</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos cookies para aprimorar sua experiência de navegação, exibir anúncios ou conteúdo personalizado e analisar nosso tráfego. Ao clicar em “Aceitar todos”, você concorda com nosso uso de cookies.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Personalizar" data-cky-tag="settings-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Personalizar</button> <button class="cky-btn cky-btn-reject" aria-label="Rejeitar" data-cky-tag="reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Rejeitar</button> <button class="cky-btn cky-btn-accept" aria-label="Aceitar tudo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863dc;border-color:#1863dc">Aceitar tudo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Personalizar preferências de consentimento</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="https://www.camil.com.br/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>Utilizamos cookies para ajudar você a navegar com eficiência e executar certas funções. Você encontrará informações detalhadas sobre todos os cookies sob cada categoria de consentimento abaixo.</p><p>Os cookies que são classificados com a marcação “Necessário” são armazenados em seu navegador, pois são essenciais para possibilitar o uso de funcionalidades básicas do site.</p><p>Também usamos cookies de terceiros que nos ajudam a analisar como você usa esse site, armazenar suas preferências e fornecer conteúdo e anúncios que sejam relevantes para você. Esses cookies somente serão armazenados em seu navegador mediante seu prévio consentimento.</p><p>Você pode optar por ativar ou desativar alguns ou todos esses cookies, mas desativá-los pode afetar sua experiência de navegação.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessário" data-cky-tag="detail-category-title" style="color:#212121">Necessário</button><span class="cky-always-active">Sempre ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies necessários são cruciais para as funções básicas do site e o site não funcionará como pretendido sem eles. Esses cookies não armazenam nenhum dado pessoalmente identificável.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Bem, cookies para exibir.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Funcional" data-cky-tag="detail-category-title" style="color:#212121">Funcional</button><span class="cky-always-active">Sempre ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Cookies funcionais ajudam a executar certas funcionalidades, como compartilhar o conteúdo do site em plataformas de mídia social, coletar feedbacks e outros recursos de terceiros.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Bem, cookies para exibir.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analíticos" data-cky-tag="detail-category-title" style="color:#212121">Analíticos</button><span class="cky-always-active">Sempre ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Cookies analíticos são usados para entender como os visitantes interagem com o site. Esses cookies ajudam a fornecer informações sobre métricas o número de visitantes, taxa de rejeição, fonte de tráfego, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Bem, cookies para exibir.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Desempenho" data-cky-tag="detail-category-title" style="color:#212121">Desempenho</button><span class="cky-always-active">Sempre ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies de desempenho são usados para entender e analisar os principais índices de desempenho do site, o que ajuda a oferecer uma melhor experiência do usuário para os visitantes.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Bem, cookies para exibir.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Anúncio" data-cky-tag="detail-category-title" style="color:#212121">Anúncio</button><span class="cky-always-active">Sempre ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies de anúncios são usados para entregar aos visitantes anúncios personalizados com base nas páginas que visitaram antes e analisar a eficácia da campanha publicitária.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Bem, cookies para exibir.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-reject" aria-label="Rejeitar" data-cky-tag="detail-reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Rejeitar </button> <button class="cky-btn cky-btn-preferences" aria-label="Salve minhas preferências" data-cky-tag="detail-save-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Salve minhas preferências </button> <button class="cky-btn cky-btn-accept" aria-label="Aceitar tudo" data-cky-tag="detail-accept-button" style="color:#ffffff;background-color:#1863dc;border-color:#1863dc"> Aceitar tudo </button> </div></div></div></div></script><a href="https://full.services/" style="visibility: hidden; user-select: none; pointer-events: none; display: none;">plugins premium WordPress</a>
+
+
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/html" id="tmpl-jet-ajax-search-results-item">
+<div class="jet-ajax-search__results-item">
+	<a class="jet-ajax-search__item-link" href="{{{data.link}}}" target="{{{data.link_target_attr}}}">
+		{{{data.thumbnail}}}
+		<div class="jet-ajax-search__item-content-wrapper">
+			{{{data.before_title}}}
+			<div class="jet-ajax-search__item-title">{{{data.title}}}</div>
+			{{{data.after_title}}}
+			{{{data.before_content}}}
+			<div class="jet-ajax-search__item-content">{{{data.content}}}</div>
+			{{{data.after_content}}}
+			{{{data.rating}}}
+			{{{data.price}}}
+		</div>
+	</a>
+</div>
+</script><link rel='stylesheet' id='single-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/paginas/single.css?v=202005061320' type='text/css' media='all' />
+<link rel='stylesheet' id='produtos-css' href='https://www.camil.com.br/wp-content/themes/camilproduto/css/paginas/produtos.css?v=202005061320' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/underscore.min.js?v=202005061320" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/wp-util.min.js?v=202005061320" id="wp-util-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/jet-search/assets/lib/chosen/chosen.jquery.min.js?v=202005061320" id="jquery-chosen-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/jet-search/assets/js/jet-search.js?v=202005061320" id="jet-search-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?v=202005061320" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?v=202005061320" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?v=202005061320" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/dist/hooks.min.js?v=202005061320" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-includes/js/dist/i18n.min.js?v=202005061320" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?v=202005061320" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.camil.com.br\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?v=202005061320" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/libs/jquery.mask.min.js?v=202005061320" id="jquery-mask-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/libs/slick.min.js?v=202005061320" id="slick-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/default/ajax.js?v=202005061320" id="ajax-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/default/functions.js?v=202005061320" id="functions-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/default/scripts.js?v=202005061320" id="scripts-js"></script>
+<script type="text/javascript" id="fca_pc_client_js-js-extra">
+/* <![CDATA[ */
+var fcaPcEvents = [];
+var fcaPcPost = {"title":"Arroz Parboilizado","type":"produtos","id":"183","categories":[]};
+var fcaPcOptions = {"pixel_types":[],"ajax_url":"https:\/\/www.camil.com.br\/wp-admin\/admin-ajax.php","debug":"","edd_currency":"USD","nonce":"0cfc0a277d","utm_support":"","user_parameters":"","edd_enabled":"","edd_delay":"0","woo_enabled":"","woo_delay":"0","video_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?v=202005061320" id="fca_pc_client_js-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/plugins/facebook-conversion-pixel/video.js?v=202005061320" id="fca_pc_video_js-js"></script>
+<script type="text/javascript" src="https://www.camil.com.br/wp-content/themes/camilproduto/js/paginas/produtos.js?v=202005061320" id="produtos-pages-js"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>
